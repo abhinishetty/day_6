@@ -1,0 +1,11 @@
+for  cra:
+
+npx create-reat-app first_react app
+cd first_react_app
+npm run start
+
+using vite:
+npm create vite@latest second_react_app
+cd second_react_app
+npm install
+npm run dev
